@@ -1,0 +1,2 @@
+# algoholic
+AN ALGORITHMIC TRADING ENGINE
